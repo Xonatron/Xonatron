@@ -1,7 +1,17 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning Xbox/PlayStation indie game studio. Founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam) (private repo)
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam)
 - [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
+### Released Projects:
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4)
+- [Score Rush MP](http://xona.com/scorerush/multiplayer/) (HTML5)
+- [Score Rush](http://xona.com/scorerush/html5/) (HTML5)
+- [Score Rush](http://xona.com/scorerush/xbox360/) (Xbox 360)
+- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360)
+- [Decimation X2](http://xona.com/decimationx2/) (Windows Phone)
+- [Decimation X](http://xona.com/decimationx/) (Xbox 360)
+### Unreleased Projects:
+- [Duality ZF](http://xona.com/dualityzf) (Xbox 360)
 ### Life Advice:
 - Be yourself.
 
