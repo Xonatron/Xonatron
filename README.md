@@ -10,7 +10,9 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning
 - [Decimation X3](http://xona.com/decimationx3/) (Xbox 360)
 - [Decimation X2](http://xona.com/decimationx2/) (Windows Phone)
 - [Decimation X](http://xona.com/decimationx/) (Xbox 360)
-### Unreleased Projects:
+### Unfinished Projects:
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One)
+- [Decimation X4](http://xona.com/decimationx4/) (Xbox One)
 - [Duality ZF](http://xona.com/dualityzf) (Xbox 360)
 ### Life Advice:
 - Be yourself.
