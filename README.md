@@ -1,4 +1,9 @@
-### Hi there 👋
+Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning Xbox/PlayStation indie game studio that I founded with my twin brother, [Jason Doucette](https://github.com/JDoucette). We make intensified arcade-style retro games. Our business, our games, our technology, and we as competitive gamers have won prestigious awards and received worldwide press. Our business has won $180,000 in contests. Our games have ranked from #1 in Canada to #1 in Japan, have become #1 best sellers in multiple countries, have won game contests, and have held 3 of the top 5 rated spots in Japan of all Xbox LIVE indie games. Our game engines have been awarded for technical excellence. And we, the developers, have placed #1 in competitive gaming competitions -- relating to the games we make.
+### Current Projects:
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam) (private repo)
+- [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
+### Life Advice:
+- Be yourself.
 
 <!--
 **Xonatron/Xonatron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
