@@ -1,4 +1,4 @@
-Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning Xbox/PlayStation indie game studio that I founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
+Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning Xbox/PlayStation indie game studio. Founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam) (private repo)
 - [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
