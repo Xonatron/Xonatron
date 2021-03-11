@@ -14,6 +14,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), an award-winning
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One)
 - [Decimation X4](http://xona.com/decimationx4/) (Xbox One)
 - [Duality ZF](http://xona.com/dualityzf) (Xbox 360)
+- [eScape](http://xona.com/escape) (PC)
 ### Favourite Quotes:
 > "We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action." — Frank Tibolt
 ### Life Advice:
