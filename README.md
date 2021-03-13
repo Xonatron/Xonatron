@@ -30,6 +30,9 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [God Particle](http://xona.com/godparticle/) (PC/Xbox One)
 - [Raccontra](http://xona.com/raccontra/) (PC)
 - [Press Fire To Begin](http://xona.com/pressfire/) (PC)
+### Mathematics:
+- [Matthew's Numbers](http://xona.com/matthewsnumbers/)
+- [Lowest Unused Anti-Prime Factors](https://oeis.org/A332271) (integer sequence)
 ### Favourite Quotes:
 > "We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action." — Frank Tibolt
 ### Life Advice:
