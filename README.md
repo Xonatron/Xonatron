@@ -1,6 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [Score Rush Extended 撃点](http://xona.com/scorerush/) (Switch)
+- [Score Rush Enhanced 撃点](http://xona.com/scorerush/) (Switch)
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam)
 ### Released Projects:
 - [Random](http://xona.com/random) (PC)
