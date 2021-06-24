@@ -1,7 +1,7 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (Switch)
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PC/Steam)
-- [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
 ### Released Projects:
 - [Random](http://xona.com/random) (PC)
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4)
@@ -23,6 +23,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF](http://xona.com/dualityzf/) (Xbox 360)
 - [eScape](http://xona.com/escape/) (PC)
 ### Prototypes:
+- [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
 - [Hyperbol](http://xona.com/hyperbol/) (PC)
 - [Kakeru 乗数](http://xona.com/kakeru/) (PC)
 - [The Exploration Thereof...](http://xona.com/exploration/) (PC)
