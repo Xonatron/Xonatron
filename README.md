@@ -22,7 +22,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF](http://xona.com/dualityzf/) (Xbox 360)
 - [eScape](http://xona.com/escape/) (PC)
 ### Prototypes:
-- [Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
+- [2D Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
 - [Hyperbol](http://xona.com/hyperbol/) (PC)
 - [Kakeru 乗数](http://xona.com/kakeru/) (PC)
 - [The Exploration Thereof...](http://xona.com/exploration/) (PC)
