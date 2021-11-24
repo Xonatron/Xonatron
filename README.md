@@ -1,5 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Released Projects:
+- [Fractal Art](https://youtu.be/fpyS-u69-zs) (PC)
 - [Random](http://xona.com/random) (PC)
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4)
 - [Xonafish](http://xona.com/xonafish/) (PC)
