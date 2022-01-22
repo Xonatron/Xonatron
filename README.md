@@ -1,10 +1,10 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC)
 - LowRes [MonoGame Template](http://xona.com/kakeru/) (PC)
 - [Kakeru 乗数](http://xona.com/kakeru/) (PC)
 
 ### Released Projects:
+- [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC)
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
 - [Fractal Art](https://youtu.be/1pK00KAIC9Q) v1 (PC)
 - [Random](http://xona.com/random) (PC)
@@ -26,7 +26,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Decimation X4](http://xona.com/decimationx4/) (Xbox One)
 - [Duality ZF](http://xona.com/dualityzf/) (Xbox 360)
 - [eScape](http://xona.com/escape/) (PC)
-### Prototypes:
+### Game Prototypes:
 - [2D Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
 - [Hyperbol](http://xona.com/hyperbol/) (PC)
 - [Kakeru 乗数](http://xona.com/kakeru/) (PC)
