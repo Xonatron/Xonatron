@@ -1,6 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- HiKōri 火氷 (FireIce) (PC)
+- [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC)
 - [Kakeru 乗数](http://xona.com/kakeru/) (PC)
 - LowRes MonoGame Template (PC)
 
