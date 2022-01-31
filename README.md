@@ -30,7 +30,6 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC)
 - [2D Text-Based RPG](https://github.com/Xonatron/TextBasedRPG) (PC)
 - [Hyperbol](http://xona.com/hyperbol/) (PC)
-- [Kakeru 乗数](http://xona.com/kakeru/) (PC)
 - [The Exploration Thereof...](http://xona.com/exploration/) (PC)
 - [Infinite Ammo](http://xona.com/infiniteammo/) (PC)
 - [God Particle](http://xona.com/godparticle/) (PC/Xbox One)
