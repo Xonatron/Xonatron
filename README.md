@@ -28,7 +28,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [eScape](http://xona.com/escape/) (PC)
 ### Prototypes:
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC)
-- [The Quest for Truth](https://xona.com/quest/) (PC) -- 2D Text-Based RPG
+- [The Quest for Truth](http://xona.com/quest/) (PC) -- 2D Text-Based RPG
 - [Hyperbol](http://xona.com/hyperbol/) (PC)
 - [The Exploration Thereof...](http://xona.com/exploration/) (PC)
 - [Infinite Ammo](http://xona.com/infiniteammo/) (PC)
