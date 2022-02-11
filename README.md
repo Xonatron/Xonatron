@@ -27,17 +27,18 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF](http://xona.com/dualityzf/) (Xbox 360)
 - [eScape](http://xona.com/escape/) (PC)
 ### Prototypes:
-- [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC)
-- [The Quest for Truth](http://xona.com/quest/) (PC) -- 2D Text-Based RPG
-- [Hyperbol](http://xona.com/hyperbol/) (PC)
-- [The Exploration Thereof...](http://xona.com/exploration/) (PC)
-- [Infinite Ammo](http://xona.com/infiniteammo/) (PC)
-- [God Particle](http://xona.com/godparticle/) (PC/Xbox One)
-- [Raccontra](http://xona.com/raccontra/) (PC)
-- [Press Fire To Begin](http://xona.com/pressfire/) (PC)
+- [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) -- particle system
+- [The Quest for Truth](http://xona.com/quest/) (PC) -- text-based Roguelike
+- [Interactive Fiction](https://youtu.be/I6-GujXBzgk) (PC) -- "The Mystery of the Book That Was Read by the Person Who Read It"
+- [Hyperbol](http://xona.com/hyperbol/) (PC) -- geometric mystery
+- [The Exploration Thereof...](http://xona.com/exploration/) (PC) -- non-Euclidean geometry
+- [Infinite Ammo](http://xona.com/infiniteammo/) (PC) -- retro FPS
+- [God Particle](http://xona.com/godparticle/) (PC/Xbox One) -- physics
+- [Raccontra](http://xona.com/raccontra/) (PC) - exploratory Contra-style
+- [Press Fire To Begin](http://xona.com/pressfire/) (PC) -- 1-button shmup
 ### Mathematics:
 - [Matthew's Numbers](http://xona.com/matthewsnumbers/)
-- [Lowest Unused Anti-Prime Factors](https://oeis.org/A332271) (integer sequence)
+- [Lowest Unused Anti-Prime Factors](https://oeis.org/A332271) -- integer sequence
 ### Favourite Quotes:
 > "We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action." — Frank Tibolt
 ### Life Advice:
