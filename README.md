@@ -7,7 +7,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 ### Released Projects:
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
 - [Fractal Art](https://youtu.be/1pK00KAIC9Q) v1 (PC)
-- [Random](http://xona.com/random) (PC) -- experimental game: be as random as possible, although random is defined as having no purpose
+- [Random](http://xona.com/random) (PC) -- "be random" game
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4) -- dual-stick shmup
 - [Xonafish](http://xona.com/xonafish/) (PC) -- chess engine (Stockfish 7 branch)
 - [Scaredy Ship](http://xona.com/scaredyship/) (PC) --
@@ -22,10 +22,10 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [To Be Continued...](http://xona.com/tbc/) (PC) -- real-time graphics demo
 - [WipeOut](http://xona.com/wipeout/) (PC) -- Reversi/Othello AI
 ### Unfinished Projects:
-- [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One)
-- [Decimation X4](http://xona.com/decimationx4/) (Xbox One)
-- [Duality ZF](http://xona.com/dualityzf/) (Xbox 360)
-- [eScape](http://xona.com/escape/) (PC)
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One) -- dual-stick shmup
+- [Decimation X4](http://xona.com/decimationx4/) (Xbox One) -- fixed shmup
+- [Duality ZF](http://xona.com/dualityzf/) (Xbox 360) -- shmup
+- [eScape](http://xona.com/escape/) (PC) -- landscape AI/renderer
 ### Prototypes:
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) -- particle system
 - [The Quest for Truth](http://xona.com/quest/) (PC) -- text-based Roguelike
