@@ -10,12 +10,12 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Random](http://xona.com/random) (PC) -- "be random" game
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4) -- dual-stick shmup
 - [Xonafish](http://xona.com/xonafish/) (PC) -- chess engine (Stockfish 7 branch)
-- [Scaredy Ship](http://xona.com/scaredyship/) (PC) --
+- [Scaredy Ship](http://xona.com/scaredyship/) (PC) -- avoidance game
 - [Color Crush](http://xona.com/colorcrush/) (PC) -- block breaker
 - [Score Rush MP](http://xona.com/scorerush/html5/) (HTML5) -- dual-stick shmup
 - [Score Rush](http://xona.com/scorerush/html5/) (HTML5) -- dual-stick shmup
 - [Score Rush](http://xona.com/scorerush/x360/) (Xbox 360) -- dual-stick shmup
-- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360) -- fixed shmup -- fixed shmup
+- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360) -- fixed shmup
 - [Decimation X2](http://xona.com/decimationx2/) (Windows Phone) -- fixed shmup
 - [Decimation X](http://xona.com/decimationx/) (Xbox 360) -- fixed shmup
 - [Domain Hacks](http://xona.com/domainhacks/) (Web) -- domain name search
