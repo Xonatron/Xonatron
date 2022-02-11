@@ -1,26 +1,26 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC)
-- [Kakeru 乗数](http://xona.com/kakeru/) (PC)
-- LowRes MonoGame Template (PC)
+- [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC) -- dual-stick shmup
+- [Kakeru 乗数](http://xona.com/kakeru/) (PC) -- dual-stick shmup
+- MonoGame Template (PC) -- low-res 2D sprite-based retro-style template
 
 ### Released Projects:
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
 - [Fractal Art](https://youtu.be/1pK00KAIC9Q) v1 (PC)
-- [Random](http://xona.com/random) (PC)
-- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4)
-- [Xonafish](http://xona.com/xonafish/) (PC)
-- [Scaredy Ship](http://xona.com/scaredyship/) (PC)
-- [Color Crush](http://xona.com/colorcrush/) (PC)
-- [Score Rush MP](http://xona.com/scorerush/html5/) (HTML5)
-- [Score Rush](http://xona.com/scorerush/html5/) (HTML5)
-- [Score Rush](http://xona.com/scorerush/x360/) (Xbox 360)
-- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360)
-- [Decimation X2](http://xona.com/decimationx2/) (Windows Phone)
-- [Decimation X](http://xona.com/decimationx/) (Xbox 360)
-- [Domain Hacks](http://xona.com/domainhacks/) (Web)
-- [To Be Continued...](http://xona.com/tbc/) (PC)
-- [WipeOut](http://xona.com/wipeout/) (PC)
+- [Random](http://xona.com/random) (PC) -- experimental game: be as random as possible, although random is defined as having no purpose
+- [Score Rush Extended 撃点](http://xona.com/scorerush/) (PS4) -- dual-stick shmup
+- [Xonafish](http://xona.com/xonafish/) (PC) -- chess engine (Stockfish 7 branch)
+- [Scaredy Ship](http://xona.com/scaredyship/) (PC) --
+- [Color Crush](http://xona.com/colorcrush/) (PC) -- block breaker
+- [Score Rush MP](http://xona.com/scorerush/html5/) (HTML5) -- dual-stick shmup
+- [Score Rush](http://xona.com/scorerush/html5/) (HTML5) -- dual-stick shmup
+- [Score Rush](http://xona.com/scorerush/x360/) (Xbox 360) -- dual-stick shmup
+- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360) -- fixed shmup -- fixed shmup
+- [Decimation X2](http://xona.com/decimationx2/) (Windows Phone) -- fixed shmup
+- [Decimation X](http://xona.com/decimationx/) (Xbox 360) -- fixed shmup
+- [Domain Hacks](http://xona.com/domainhacks/) (Web) -- domain name search
+- [To Be Continued...](http://xona.com/tbc/) (PC) -- real-time graphics demo
+- [WipeOut](http://xona.com/wipeout/) (PC) -- Reversi/Othello AI
 ### Unfinished Projects:
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One)
 - [Decimation X4](http://xona.com/decimationx4/) (Xbox One)
