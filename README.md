@@ -13,17 +13,18 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Color Crush](http://xona.com/colorcrush/) (PC) — block breaker
 - [Score Rush MP](http://xona.com/scorerush/html5/) (HTML5) — dual-stick shmup
 - [Score Rush](http://xona.com/scorerush/html5/) (HTML5) — dual-stick shmup
-- [Score Rush](http://xona.com/scorerush/x360/) (Xbox 360) — dual-stick shmup
-- [Decimation X3](http://xona.com/decimationx3/) (Xbox 360) — fixed shmup
+- [Score Rush](http://xona.com/scorerush/x360/) (X360) — dual-stick shmup
+- [Decimation X3](http://xona.com/decimationx3/) (X360) — fixed shmup
 - [Decimation X2](http://xona.com/decimationx2/) (Windows Phone) — fixed shmup
-- [Decimation X](http://xona.com/decimationx/) (Xbox 360) — fixed shmup
+- [Decimation X](http://xona.com/decimationx/) (X360) — fixed shmup
 - [Domain Hacks](http://xona.com/domainhacks/) (Web) — domain name search
 - [To Be Continued...](http://xona.com/tbc/) (PC) — real-time graphics demo
 - [WipeOut](http://xona.com/wipeout/) (PC) — Reversi/Othello AI
 ### Unfinished Projects:
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One) — dual-stick shmup
-- [Decimation X4](http://xona.com/decimationx4/) (Xbox One) — fixed shmup
-- [Duality ZF](http://xona.com/dualityzf/) (Xbox 360) — shmup
+- [Decimation X4](http://xona.com/decimationx4/) (XB1/PS4/PC) — fixed shmup
+- [Decimation X3.5](http://xona.com/decimationx3.5/) (XB1/PS4/PC) — fixed shmup
+- [Duality ZF](http://xona.com/dualityzf/) (X360/PC) — shmup
 - [eScape](http://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
 - [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
