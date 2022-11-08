@@ -24,7 +24,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Score Rush Extended 撃点](http://xona.com/scorerush/) (Xbox One) — dual-stick shmup
 - [Decimation X4](http://xona.com/decimationx4/) (XB1/PS4/PC) — fixed shmup
 - [Decimation X3.5](http://xona.com/decimationx3.5/) (XB1/PS4/PC) — fixed shmup
-- [Duality ZF](http://xona.com/dualityzf/) (X360/PC) — shmup
+- [Duality ZF 双攻](http://xona.com/dualityzf/) (X360/PC) — shmup
 - [eScape](http://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
 - [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
