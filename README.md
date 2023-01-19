@@ -1,7 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [The Quest for Truth](http://xona.com/quest/) (PC) — text-based Roguelike
-- MonoGame Template (PC) — low-res 2D sprite-based retro-style template
+- [Kakeru 乗数](http://xona.com/kakeru/) (PC) — dual-stick shmup
 
 ### Released Projects:
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
@@ -27,9 +26,10 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF 双攻](http://xona.com/dualityzf/) (X360/PC) — shmup
 - [eScape](http://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
-- [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
-- [Kakeru 乗数](http://xona.com/kakeru/) (PC) — dual-stick shmup
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) — particle system
+- [HiKōri 火氷](http://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
+- [The Quest for Truth](http://xona.com/quest/) (PC) — text-based Roguelike
+- MonoGame Template (PC) — low-res 2D sprite-based retro-style template
 - [Interactive Fiction](https://youtu.be/I6-GujXBzgk) (PC) — "The Mystery of the Book That Was Read by the Person Who Read It"
 - [Hyperbol](http://xona.com/hyperbol/) (PC) — geometric mystery
 - [The Exploration Thereof...](http://xona.com/exploration/) (PC) — non-Euclidean geometry
