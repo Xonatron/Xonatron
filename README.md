@@ -37,6 +37,8 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [God Particle](https://xona.com/godparticle/) (PC/Xbox One) — physics
 - [Raccontra](https://xona.com/raccontra/) (PC) - exploratory Contra-style
 - [Press Fire To Begin](https://xona.com/pressfire/) (PC) — 1-button shmup
+### Pixel Shaders:
+- [Shadertoy](https://www.shadertoy.com/user/Xonatron) — (WebGL) pixel shaders
 ### Mathematics:
 - [Half-Life Simulation](https://xona.com/halflife) — emergence of half-life
 - [Matthew's Numbers](https://xona.com/matthewsnumbers/) — amount of possible screens
