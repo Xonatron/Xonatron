@@ -26,8 +26,8 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF 双攻](https://xona.com/dualityzf/) (X360/PC) — shmup
 - [eScape](https://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
-- [The Quest for Truth](https://xona.com/quest/) (PC) — text-based Roguelike
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) — particle system
+- [The Quest for Truth](https://xona.com/quest/) (PC) — text-based Roguelike
 - [HiKōri 火氷](https://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
 - MonoGame Template (PC) — low-res 2D sprite-based retro-style template
 - [Interactive Fiction](https://youtu.be/I6-GujXBzgk) (PC) — "The Mystery of the Book That Was Read by the Person Who Read It"
