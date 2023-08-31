@@ -1,6 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
-- [Kakeru 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
+- [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
 
 ### Released Projects:
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
