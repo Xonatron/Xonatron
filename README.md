@@ -1,5 +1,6 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### Current Projects:
+- [The Mind's Trial 脳迷路](https://xona.com/mindstrial/) (PC) — puzzle game
 - [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
 
 ### Released Projects:
