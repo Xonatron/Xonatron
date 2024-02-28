@@ -22,7 +22,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Domain Hacks](https://xona.com/domainhacks/) (Web) — domain name search
 - [To Be Continued...](https://xona.com/tbc/) (PC) — real-time graphics demo
 - [WipeOut](https://xona.com/wipeout/) (PC) — Reversi/Othello AI
-- [Xona Music](https://xona.com/music/) — music compositions (2006 initial launch)
+- [Xona Music](https://xona.com/2006/07/23.html) — music compositions (2006 initial launch)
 ### Unfinished Projects:
 - [Score Rush Extended 撃点](https://xona.com/scorerush/) (Xbox One) — dual-stick shmup
 - [Decimation X4](https://xona.com/decimationx4/) (XB1/PS4/PC) — fixed shmup
