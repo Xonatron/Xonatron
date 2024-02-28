@@ -5,6 +5,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
 
 ### Released Projects:
+- [Xona Music](https://xona.com/music/) — music compositions (2023 relaunch)
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
 - [Fractal Art](https://youtu.be/1pK00KAIC9Q) v1 (PC)
 - [Random](https://xona.com/random) (PC) — "be random" game
@@ -21,7 +22,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Domain Hacks](https://xona.com/domainhacks/) (Web) — domain name search
 - [To Be Continued...](https://xona.com/tbc/) (PC) — real-time graphics demo
 - [WipeOut](https://xona.com/wipeout/) (PC) — Reversi/Othello AI
-- [Xona Music](https://xona.com/music/) — music compositions
+- [Xona Music](https://xona.com/music/) — music compositions (2006 initial launch)
 ### Unfinished Projects:
 - [Score Rush Extended 撃点](https://xona.com/scorerush/) (Xbox One) — dual-stick shmup
 - [Decimation X4](https://xona.com/decimationx4/) (XB1/PS4/PC) — fixed shmup
