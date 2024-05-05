@@ -62,7 +62,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 > But through it all, when there was doubt  
 > I ate it up, and spit it out  
 > I faced it all, and I stood tall  
-> And did it my way" - Frank Sinatra
+> And did it my way." - Frank Sinatra
 
 ### Life Advice:
 - Be yourself.
