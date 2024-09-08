@@ -51,11 +51,11 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 ### Favourite Quotes:
 > "We should be taught not to wait for inspiration to start a thing. Action always generates inspiration. Inspiration seldom generates action." — Frank Tibolt
 
+> "It is not the critic who counts, nor the man who points out where the strong man stumbled, or where a doer of deeds could have done them better. The credit belongs to the man in the arena whose face is marred by dust and sweat and blood, who strives valiantly, who errs, and who comes up short again and again, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause. The man who at best knows the triumph of high achievement and who at worst, if he fails, fails while daring greatly, so that his place will never be with those cold timid souls who never knew victory or defeat." - Theodore Roosevelt
+
 > "The difference between who you are and who you want to be... is what you do." - Bill Phillips
 
 > "Life is difficult. This is a great truth, one of the greatest truths. It is a great truth because once we truly see this truth, we transcend it. Once we truly know that life is difficult-once we truly understand and accept it-then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters." ― M. Scott Peck"
-
-> "It is not the critic who counts, nor the man who points out where the strong man stumbled, or where a doer of deeds could have done them better. The credit belongs to the man in the arena whose face is marred by dust and sweat and blood, who strives valiantly, who errs, and who comes up short again and again, who knows the great enthusiasms, the great devotions, and spends himself in a worthy cause. The man who at best knows the triumph of high achievement and who at worst, if he fails, fails while daring greatly, so that his place will never be with those cold timid souls who never knew victory or defeat." - Theodore Roosevelt
 
 > "Yes, there were times, I'm sure you knew  
 > When I bit off more than I could chew  
