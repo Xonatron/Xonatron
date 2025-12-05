@@ -54,7 +54,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 
 > "The difference between who you are and who you want to be... is what you do." - Bill Phillips
 
-> "Life is difficult. This is a great truth, one of the greatest truths. It is a great truth because once we truly see this truth, we transcend it. Once we truly know that life is difficult-once we truly understand and accept it-then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters." ― M. Scott Peck"
+> "Life is difficult. This is a great truth, one of the greatest truths. It is a great truth because once we truly see this truth, we transcend it. Once we truly know that life is difficult-once we truly understand and accept it-then life is no longer difficult. Because once it is accepted, the fact that life is difficult no longer matters." ― M. Scott Peck
 
 > "Yes, there were times, I'm sure you knew  
 > When I bit off more than I could chew  
