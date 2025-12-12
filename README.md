@@ -1,4 +1,7 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
+### WIP:
+- [Kakeru Engine](https://xona.com/engines/kakeru/) (MonoGame/C#) — proprietary game engine (low-res 2D sprite-based retro-style)
+- [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
 ### Released Projects:
 - [Xona Music](https://xona.com/music/) — music compositions (2023 relaunch)
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
@@ -26,9 +29,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [eScape](https://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
 - [TI Quest](https://github.com/Xonatron/TIQuest) (TI Extended Basic) — GPT-5 vibe coded MVP RPG
-- [Kakeru Engine](https://xona.com/engines/kakeru/) (MonoGame/C#) — proprietary game engine (low-res 2D sprite-based retro-style)
 - [The Mind's Trial 脳迷路](https://xona.com/mindstrial/) (PC) — puzzle game
-- [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) — particle system
 - [The Quest for Truth](https://xona.com/quest/) (PC) — text-based Roguelike
 - [HiKōri 火氷](https://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
