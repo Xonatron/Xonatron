@@ -1,7 +1,7 @@
 Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with my twin brother, [Jason Doucette](https://github.com/JDoucette).
 ### WIP:
 - [The Last Orb: Unclaimed 残珠](https://xona.com/lastorb/) (PC) — exploratory, casualized shmup
-- [Kakeru Engine](https://xona.com/engines/kakeru/) (MonoGame/C#) — proprietary game engine (low-res 2D sprite-based retro-style)
+- [Kakeru Engine](https://xona.com/engines/kakeru/) (MonoGame/C#) — proprietary retro-style game engine
 ### Released Projects:
 - [Xona Music](https://xona.com/music/) — music compositions (2023 relaunch)
 - [Fractal Art](https://youtu.be/fpyS-u69-zs) v3 (PC)
