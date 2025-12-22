@@ -28,7 +28,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Duality ZF 双攻](https://xona.com/dualityzf/) (X360/PC) — shmup
 - [eScape](https://xona.com/escape/) (PC) — landscape AI/renderer
 ### Prototypes:
-- [Kakeru: Next Level 乗数](https://xona.com/kakeru/) (PC) — dual-stick shmup
+- [Hyperscore: Next Level 乗数](https://xona.com/hyperscore/) (PC) — dual-stick shmup
 - [TI Quest](https://github.com/Xonatron/TIQuest) (TI Extended Basic) — GPT-5 vibe coded MVP RPG
 - [The Mind's Trial 脳迷路](https://xona.com/mindstrial/) (PC) — puzzle game
 - [NanoSnake](https://www.youtube.com/playlist?list=PLYUwJ3dlBCsVuN_dRL6TDp9FynDq0oy14) (PC) — particle system
