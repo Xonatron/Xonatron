@@ -38,7 +38,6 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [The Quest for Truth](https://xona.com/quest/) (PC) — text-based Roguelike
 - [HiKōri 火氷](https://xona.com/hikori/) (FireIce) (PC) — dual-stick shmup
 - MonoGame Template (PC) — low-res 2D sprite-based retro-style template
-- FillDrive — computer drive wipe
 - [Interactive Fiction](https://youtu.be/I6-GujXBzgk) (PC) — "The Mystery of the Book That Was Read by the Person Who Read It"
 - [Hyperbol](https://xona.com/hyperbol/) (PC) — geometric mystery
 - [The Exploration Thereof...](https://xona.com/exploration/) (PC) — non-Euclidean geometry
@@ -47,6 +46,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [Raccontra](https://xona.com/raccontra/) (PC) - exploratory Contra-style
 - [Press Fire To Begin](https://xona.com/pressfire/) (PC) — 1-button shmup
 ### Tools:
+- FillDrive — computer drive wipe
 - Folder Backup — creates auto-named versioned backups of any folder
 - 2x Nearest Neighbour Video Upscalar — maintains YouTube quality
 - Video Frame Extractor — extracts all frames as images
