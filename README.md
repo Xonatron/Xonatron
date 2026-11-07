@@ -46,6 +46,10 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 - [God Particle](https://xona.com/godparticle/) (PC/Xbox One) — physics
 - [Raccontra](https://xona.com/raccontra/) (PC) - exploratory Contra-style
 - [Press Fire To Begin](https://xona.com/pressfire/) (PC) — 1-button shmup
+### Tools:
+- Folder Backup — creates auto-named versioned backups of any folder
+- 2x Nearest Neighbour Video Upscalar — maintains YouTube quality
+- 1:1/9:16 Video Cropper — creates YouTube shorts
 ### Pixel Shaders:
 - [Shadertoy](https://www.shadertoy.com/user/Xonatron) — (WebGL) pixel shaders
 ### Mathematics:
