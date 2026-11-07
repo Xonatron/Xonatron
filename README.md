@@ -49,6 +49,7 @@ Matthew Doucette of [Xona Games](https://github.com/XonaGames), co-founded with 
 ### Tools:
 - Folder Backup — creates auto-named versioned backups of any folder
 - 2x Nearest Neighbour Video Upscalar — maintains YouTube quality
+- Video Frame Extractor — extracts all frames as images
 - 1:1/9:16 Video Cropper — creates YouTube shorts
 ### Pixel Shaders:
 - [Shadertoy](https://www.shadertoy.com/user/Xonatron) — (WebGL) pixel shaders
